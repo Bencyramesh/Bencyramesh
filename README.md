@@ -1,53 +1,60 @@
-<h1 align="center">Hi 👋 I'm Bency R</h1>
+# 💫 About Me:
 
-<h3 align="center">
-ECE Student | Embedded Systems | VLSI | Semiconductor | Automotive Electronics
-</h3>
+hey.
+
+i am an ece student who likes building projects and learning new things.
+
+i mostly work with electronics, embedded systems and semiconductor projects.
+
+this github is where i keep the things i build and learn.
+
+currently learning more about vlsi and rtl to gds.
 
 ---
 
-## 📂 PROGRAMMING LANGUAGES
+# 🌐 Socials:
 
-<p>
-<img src="https://skillicons.dev/icons?i=c,python,java" />
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bencyr184/)
 
-## 📂 EMBEDDED SYSTEMS & IoT
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bencyramesh2006@gmail.com)
 
-<p>
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
-</p>
+---
 
-![STM32](https://img.shields.io/badge/STM32-Embedded-blue?style=for-the-badge)
-![ESP32](https://img.shields.io/badge/ESP32-IoT-red?style=for-the-badge)
-![CAN](https://img.shields.io/badge/CAN-Automotive-orange?style=for-the-badge)
+# 💻 Tech Stack:
 
-## 📂 VLSI & SEMICONDUCTOR
+## 👩‍💻 Programming
 
-![RTL to GDS](https://img.shields.io/badge/RTL--to--GDS-VLSI-purple?style=for-the-badge)
-![SKY130](https://img.shields.io/badge/SKY130-PDK-green?style=for-the-badge)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=for-the-badge)
+
+## ⚡ Embedded Systems
+
+![Arduino](https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+![PICSimLab](https://img.shields.io/badge/PICSimLab-Embedded%20Simulation-green?style=for-the-badge)
+
+## 🔧 PCB Design
+
+![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
+
+## 🔬 VLSI and Semiconductor
+
+![Verilog](https://img.shields.io/badge/Verilog-HDL-purple?style=for-the-badge)
 ![ngspice](https://img.shields.io/badge/ngspice-SPICE-blue?style=for-the-badge)
-![Magic](https://img.shields.io/badge/Magic-VLSI%20Layout-yellow?style=for-the-badge)
-![Verilog](https://img.shields.io/badge/Verilog-HDL-red?style=for-the-badge)
+![Magic](https://img.shields.io/badge/Magic-VLSI%20Layout-orange?style=for-the-badge)
+![SKY130](https://img.shields.io/badge/SKY130-PDK-green?style=for-the-badge)
 
-## 📂 PCB DESIGN & ELECTRONICS
+## 🛠️ Tools
 
-![KiCad](https://img.shields.io/badge/KiCad-PCB-blue?style=for-the-badge)
-![LTspice](https://img.shields.io/badge/LTspice-Circuit%20Simulation-red?style=for-the-badge)
-![Proteus](https://img.shields.io/badge/Proteus-Simulation-green?style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-## 📂 AI & DATA
+---
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,pytorch" />
-</p>
+# 📊 GitHub Stats:
 
-![NumPy](https://img.shields.io/badge/NumPy-Data-blue?style=for-the-badge)
-![SciPy](https://img.shields.io/badge/SciPy-Scientific%20Computing-purple?style=for-the-badge)
-![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-red?style=for-the-badge)
+![Bency's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bencyramesh&show_icons=true&theme=radical)
 
-## 📂 TOOLS
-
-<p>
-<img src="https://skillicons.dev/icons?i=github,git,vscode,linux" />
-</p>
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bencyramesh&layout=compact&theme=radical)

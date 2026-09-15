@@ -55,6 +55,4 @@ currently learning more about vlsi and rtl to gds.
 
 # 📊 GitHub Stats:
 
-![Bency's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bencyramesh&show_icons=true&theme=radical)
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bencyramesh&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bencyramesh&layout=compact)

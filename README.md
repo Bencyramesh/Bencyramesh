@@ -1,6 +1,6 @@
 # About Me:
 
-this is Bency
+this is bency
 
 i am an ece student who likes building projects and learning new things.
 
@@ -12,7 +12,7 @@ currently learning more about vlsi and rtl to gds.
 
 ---
 
-# 🌐 Socials:
+# Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bencyr184/)
 

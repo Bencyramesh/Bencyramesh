@@ -20,32 +20,32 @@ currently learning more about vlsi and rtl to gds.
 
 ---
 
-# 💻 Tech Stack:
+#  Tech Stack:
 
-## 👩‍💻 Programming
+##  Programming
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=for-the-badge)
 
-## ⚡ Embedded Systems
+##  Embedded Systems
 
 ![Arduino](https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white)
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 ![PICSimLab](https://img.shields.io/badge/PICSimLab-Embedded%20Simulation-green?style=for-the-badge)
 
-## 🔧 PCB Design
+##  PCB Design
 
 ![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
 
-## 🔬 VLSI and Semiconductor
+##  VLSI and Semiconductor
 
 ![Verilog](https://img.shields.io/badge/Verilog-HDL-purple?style=for-the-badge)
 ![ngspice](https://img.shields.io/badge/ngspice-SPICE-blue?style=for-the-badge)
 ![Magic](https://img.shields.io/badge/Magic-VLSI%20Layout-orange?style=for-the-badge)
 ![SKY130](https://img.shields.io/badge/SKY130-PDK-green?style=for-the-badge)
 
-## 🛠️ Tools
+##  Tools
 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
@@ -53,6 +53,3 @@ currently learning more about vlsi and rtl to gds.
 
 ---
 
-# 📊 GitHub Stats:
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bencyramesh&layout=compact)

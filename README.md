@@ -1,6 +1,6 @@
 # About Me:
 
-This is Bency
+this is Bency
 
 i am an ece student who likes building projects and learning new things.
 
